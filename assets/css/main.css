@@ -1885,7 +1885,7 @@ input[type=color] {
   }
 }
 .tp-header-logo img {
-  width: 135px;
+  width: 100px;
   height: 100%;
 }
 .tp-header-menu > nav > ul {
@@ -3757,7 +3757,7 @@ input[type=color] {
   margin-bottom: 30px;
 }
 .tp-footer-logo img {
-  width: 135px;
+  width: 110px;
   height: auto;
 }
 .tp-footer-text {
